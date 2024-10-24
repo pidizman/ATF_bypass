@@ -27,4 +27,5 @@ K spuštění tohoto programu potřebujete:
 ## **TODO**
 - [ ] Vytvoření EXE souboru pro jednoduší spuštění
 
+## **Varování**
 **Použití tohoto programu ve vyučování se silně nedoporučuje a je to na vlastní zodpovědnost. Tento program byl vytvořen pouze pro zábavu a vzdělávací účely. Autor není zodpovědný za jakékoliv škody způsobené tímto programem.**
